@@ -1,5 +1,1 @@
-
-
-This Project uses:
-* Jeff Griffith's mnist reader. Unfortunately it is not available as library, therefore it is shamelessly copied 
-https://github.com/jeffgriffith/mnist-reader/
+Just a simple neural network for digit recognition, using mnist dataset, spring framework and deeplearning4j
